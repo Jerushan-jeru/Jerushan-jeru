@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...(https://dreamspace.academy/pages/1-0-index.php)
+- 🔭 I’m currently working on ...[Dreamspace Academy](https://dreamspace.academy/pages/1-0-index.php)
 - 🌱 I’m currently learning ...Python 
 - 👯 I’m looking to collaborate on ...CNC machines
 - 🤔 I’m looking for help with ...
